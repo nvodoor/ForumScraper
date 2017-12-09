@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 import threading
 from classXen import Xen
 from classVB import VB 
